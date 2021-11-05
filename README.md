@@ -18,4 +18,4 @@ L4) remain in red state.
 Then, traffic light L2 becomes green for a duration calculated based on the traffic flow rate in road R2.
 Meanwhile, L1, L3, and L4 are red. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sarhana-adh/Traffic-Simulation/blob/master/img.png)
